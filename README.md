@@ -1,8 +1,34 @@
-# React + Vite
+# aulas-frontend-pwa
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Aulas de frontend(ReacJS) + PWA ministrada na dissiciplina Programação de Aplicativos da 2ª fase 2024/2 do curso técnico em programação do SENAI/SC.
 
-Currently, two official plugins are available:
+## Rodando localmente
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Clone o projeto:
+
+```bash
+  git clone https://github.com/thiagocordeirooo/aulas-frontend-senai.git
+```
+
+Entre no diretório do projeto:
+
+```bash
+  cd aulas-frontend-pwa
+```
+
+Instale as dependências:
+
+```bash
+  npm install
+
+  ou 
+
+  npm i
+```
+
+Inicie o servidor localmente:
+
+```bash
+  npm run dev
+```
+
